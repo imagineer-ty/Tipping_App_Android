@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><!-- dimens will be used to set min height text in views listed
+in the styles.xml file.-->
+<resources>
+    <dimen name="min_text_height">48dp</dimen>
+</resources>
